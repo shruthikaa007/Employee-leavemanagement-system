@@ -1,0 +1,26 @@
+
+# Maven generated files
+target/
+
+# Java compiled files
+*.class
+
+# Eclipse IDE files
+.settings/
+.project
+.classpath
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Visual Studio Code settings
+.vscode/
+
+# Log files
+*.log
+
+# Environment files containing secrets
+.env
+.env.*
+!.env.example
